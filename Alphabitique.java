@@ -41,7 +41,7 @@ public class Alphabitique {
                     System.out.println(nom + " " + prenom + " " + cin);
                     System.out.println(ncompte);
                     System.out.println("Solde");
-                    System.out.println("Plafond");
+                    System.out.println(PLAFOND_RETRAIT);
                     break;
             }
 
